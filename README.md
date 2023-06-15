@@ -1,6 +1,6 @@
 # Store_Data_Analysis
 
-![Store_report](Store_Data Analysis.PNG)
+![Store_report](./Store_Data Analysis.PNG/)
 
 
 # Sample Insights:
