@@ -1,5 +1,7 @@
 # Store_Data_Analysis
 
+![Store_report](./image.png)
+
 
 # Sample Insights:
 #### 1: Women are more likely to buy compared to men (~65%)
