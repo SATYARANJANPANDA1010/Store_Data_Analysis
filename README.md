@@ -1,6 +1,7 @@
 # Store_Data_Analysis
 
-![Store_report](./Store_Data Analysis.PNG/)
+![Logo](./logo.png)
+
 
 
 # Sample Insights:
