@@ -1,6 +1,6 @@
 # Store_Data_Analysis
 
-![Logo](./logo.png)
+![Logo](./Store_Data Analysis.PNG)
 
 
 
