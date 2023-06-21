@@ -1,5 +1,6 @@
-# Store_Data_Analysis
 
+# Store_Data_Analysis
+![Store_Data Analysis](https://github.com/SATYARANJANPANDA1010/Store_Data_Analysis/assets/65615046/b8c5b44b-ee4e-4af5-9b68-f88c02abb7cc)
 
 
 # Sample Insights:
